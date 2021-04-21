@@ -1,0 +1,6 @@
+com/mind/loginregisterapps/MainActivity.java
+ com.mind.loginregisterapps.MainActivity
+com/mind/loginregisterapps/BuildConfig.java
+ com.mind.loginregisterapps.BuildConfig
+com/mind/loginregisterapps/RegisterActivity.java
+ com.mind.loginregisterapps.RegisterActivity
